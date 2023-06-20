@@ -10,3 +10,5 @@
 
 # Create QR Code
 ![Screenshot_8](https://user-images.githubusercontent.com/95657084/208499869-1f1db538-3b15-4429-af5d-cfc41502fb86.png)<br />
+
+# Author: Hasmik Minasyan
